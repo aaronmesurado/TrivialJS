@@ -1,0 +1,35 @@
+body{
+	overflow: hidden;
+	align-items: center;
+	font-family: 'Baloo Tammudu', cursive;
+}
+
+.menu{
+	position: absolute;
+	bottom: 0;
+	left: 500px;
+	border-top: 1px solid white;
+}
+
+.link-menu{
+	color: white;
+	margin: 0 auto;
+}
+
+.link-menu:hover{
+	text-decoration: underline;
+	color: white;
+}
+
+
+@media (max-width: 900px){
+	.menu{
+		left: 280px;
+		font-size: 13px;
+	}
+}
+
+@media (max-width: 400px){
+	.menu{
+		left: 80px;	}
+}

@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="UTF-8">
+	<title>Trivial</title>
+	<!-- Hace que la ventana sea escalable -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<!-- Link a Fuente de Google -->
+	<link href="https://fonts.googleapis.com/css?family=Baloo+Tammudu" rel="stylesheet"> 
+	<!-- Links CSS  -->
+	<link href="./css/bootstrap.min.css" rel="stylesheet" type="text/css">
+	<link href="./css/tuPregunta.css" rel="stylesheet" type="text/css">
+	<link href="./css/global.css" rel="stylesheet" type="text/css">
+	<!-- Imagen Ventana -->
+	<link rel="icon" type="image/png" href="./images/logo.png">
+</head>
+<body>
+
+	<!-- Contenido de la página -->
+	<div class="container tu-pregunta">
+		<div class="pregunta">
+			<form>
+				<label>Usuario</label>
+				<br>
+				<input type="text" class="usuario">
+				<br>
+				<label>Categoría</label>
+				<br>
+				<select class="custom-select mb-2 mr-sm-2 categoria">
+					<option id="default" value="0" selected>Elige una opción</option>
+				</select>
+				<br>
+				<label>Pregunta</label>
+				<br>
+				<input type="text" class="titulo">
+				<br>
+				<label>Respuesta Correcta</label>
+				<br>
+				<input type="text" class="respuestaCorrecta">
+				<br>
+				<label>Respuestas Incorrectas</label>
+				<br>
+				<input type="text" class="respuestaIncorrecta ri1">
+				<input type="text" class="respuestaIncorrecta ri2">
+				<br>
+				<input type="text" class="respuestaIncorrecta ri3">
+				<input type="text" class="respuestaIncorrecta ri4">
+			</form>
+			<br>
+			<button type="button" class="btn btn-info enviar-pregunta">Enviar</button>
+			
+		</div>
+		
+	</div>
+
+	<footer class="nav-footer menu">
+		<nav class="nav nav-pills flex-column flex-sm-row justify-content-center">
+		  <a class="flex-sm-fill text-sm-center nav-link link-menu" href="./index.html">Inicio</a>
+		  <a class="flex-sm-fill text-sm-center nav-link link-menu" href="./tuPregunta.html">Deja tu Pregunta</a>
+		  <a class="flex-sm-fill text-sm-center nav-link link-menu" href="./ranking.html">Ranking</a>
+		</nav>
+	</footer>
+
+	<script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+<script src="https://www.gstatic.com/firebasejs/4.3.1/firebase.js"></script>
+<script src="./js/tuPregunta.js" type="text/javascript" charset="utf-8"></script>
+	
+</body>
+</html>

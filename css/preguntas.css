@@ -1,0 +1,103 @@
+body{
+	background-color: #585858;
+	font-family: 'Baloo Tammudu', cursive;
+}
+
+header{
+	background-color: black;
+    box-shadow: 0px 0px 50px 0px rgba(255,255,255,0.75);
+}
+
+.cabecera-pregunta{
+	display: flex;
+	border-bottom: 1px solid white;
+	color: white;
+	align-items: center;
+}
+
+.preguntaUsuario{
+	color: white;
+	font-size: 12px;
+}
+
+.fuente{
+	font-family: 'Baloo Tammudu', cursive;
+}
+
+#usuario{
+	margin-top: 7px;
+}
+
+#puntos, #vidas{
+	margin-left: 40px;
+	margin-top: 7px;
+} 
+
+section{
+	width: 720px;
+}
+
+.caja-pregunta{
+	background-color: #2E2E2E;
+	display: flex;
+	border: 1px solid white;
+	box-shadow: 0px 0px 18px 4px rgba(255,255,255,0.75);
+}
+
+.preguntas{
+	display: flex;
+	align-items: center;
+	height: 100vh;
+}
+
+h3{
+	margin-top: 10px;
+	text-align: center;
+	color: white;
+	width: 700px;
+}
+
+.buttons{
+	margin-bottom: 10px;
+	align-items: center;
+}
+
+.boton{
+	font-size: 17px;
+	font-family: 'Baloo Tammudu', cursive;
+}
+
+button{
+	width: 200px;
+}
+
+@media (max-width: 750px){
+	p{
+		display: block;
+		margin: 0 auto;
+	}
+
+	.caja-pregunta{
+		position: absolute;
+		top: 130px;
+		left: 70px;
+		width: 360px;
+	}
+
+	h3{
+		width: 200px;
+		font-size: 23px;
+	}
+	.buttons{
+		margin-bottom: 10px;
+	}
+
+}
+
+@media (max-width: 400px){
+
+	.caja-pregunta{
+		left: 20px;
+		width: 250px;
+	}
+}

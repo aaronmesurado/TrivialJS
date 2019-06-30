@@ -1,0 +1,40 @@
+body{
+	color: white;
+	background: url('../images/fondo2.jpg');
+}
+
+.tu-pregunta{
+	position: absolute;
+	top: 6px;
+	left: 480px;
+}
+
+.respuestaIncorrecta{
+	margin-top: 5px;
+}
+
+button{
+	font-family: 'Baloo Tammudu', cursive;
+}
+
+@media (max-width: 1050px){
+	.tu-pregunta{
+		left: 220px;
+	}
+}
+
+@media (max-width: 700px){
+	body{
+		font-size: 13px;
+	}
+
+	.tu-pregunta{
+		left: 220px;
+	}
+}
+
+@media (max-width: 400px){
+	.tu-pregunta{
+		left: 40px;
+	}
+}

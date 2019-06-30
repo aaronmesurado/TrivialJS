@@ -1,0 +1,36 @@
+body{
+	background: url('../images/fondo2.jpg');
+}
+.index{
+	top: 150px;
+	align-items: center;
+	height: 100vh;
+}
+
+.jugardor{
+	margin: 0 auto;
+}
+
+.botones{
+	display: flex;
+}
+
+button{
+	width: 130px;
+}
+
+.cine, .ciencias, .historia, .deportes, .lengua, .geografia, .random{
+	margin-top: 10px;
+	margin-left: 10px;
+}
+
+.categoria{
+	font-size: 17px;
+	font-family: 'Baloo Tammudu', cursive;
+}
+
+@media (max-width: 815px){
+	.botones{
+		display: flex;
+	}
+}

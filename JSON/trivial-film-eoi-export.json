@@ -1,0 +1,898 @@
+{
+  "preguntas" : {
+    "geografia" : [ {
+      "index" : 0,
+      "respuestaCorrecta" : "respuestaCorrecta",
+      "respuestasIncorrectas" : [ "respuesta1", "respuesta2", "respuesta3", "respuesta4" ],
+      "titulo" : "Valor de la pregunta"
+    },
+    {
+      "index" : 1,
+      "respuestaCorrecta" : "Australia",
+      "respuestasIncorrectas" : [ "Estados Unidos", "España", "Inglaterra", "Portugal" ],
+      "titulo" : "¿A qué país pertenece la isla de Tasmania?"
+    },
+    {
+      "index" : 2,
+      "respuestaCorrecta" : "Colombia",
+      "respuestasIncorrectas" : [ "Chile", "Venezuela", "Costa Rica", "Venezuela" ],
+      "titulo" : "¿En qué país situarías la ciudad de Cali?"
+    },
+    {
+      "index" : 3,
+      "respuestaCorrecta" : 5,
+      "respuestasIncorrectas" : [ 4, 3, 1, "ninguno" ],
+      "titulo" : "¿Con cuántos países limita Argentina?"
+    },
+    {
+      "index" : 4,
+      "respuestaCorrecta" : "Berna",
+      "respuestasIncorrectas" : [ "Zurich", "Ginebra", "Basilea", "Lucerna" ],
+      "titulo" : "¿Cuál es la capital de Suiza?"
+    },
+    {
+      "index" : 5,
+      "respuestaCorrecta" : "Israel",
+      "respuestasIncorrectas" : [ "Irak", "Nada", "Un río", "Afganistán" ],
+      "titulo" : "¿Qué separa las franjas de Gaza y Cisjordania?"
+    },
+    {
+      "index" : 6,
+      "respuestaCorrecta" : "Trípoli",
+      "respuestasIncorrectas" : [ "Beirut", "El Cairo", "Riad", "Kabul" ],
+      "titulo" : "¿Cuál es la capital de Libia?"
+    },
+    {
+      "index" : 7,
+      "respuestaCorrecta" : "Skopje",
+      "respuestasIncorrectas" : [ "Chisinau", "La Valeta", "Sarajevo", "Tirana" ],
+      "titulo" : "¿Cuál es la capital de la república de Macedonia?"
+    },
+    {
+      "index" : 8,
+      "respuestaCorrecta" : "Archipiélago",
+      "respuestasIncorrectas" : [ "Islotes", "Meandro", "Península", "Isla" ],
+      "titulo" : "¿Qué accidente geográfico se define como: 'conjunto de islas, islotes y diminutas masas de tierra cercanas entre sí'?"
+    },
+    {
+      "index" : 9,
+      "respuestaCorrecta" : "México",
+      "respuestasIncorrectas" : [ "Argentina", "Colombia", "Chile", "Costa Rica" ],
+      "titulo" : "¿A qué país pertenece la isla Mujeres?"
+    },
+    {
+      "index" : 10,
+      "respuestaCorrecta" : "Asia y Europa",
+      "respuestasIncorrectas" : [ "Asia", "Europa", "África y Europa", "Oceanía" ],
+      "titulo" : "¿En qué continente/s se encuentra Turquía?"
+    },
+    {
+      "index" : 11,
+      "respuestaCorrecta" : "Pontevedra",
+      "respuestasIncorrectas" : [ "Lugo", "La Coruña", "Orense", "Vigo" ],
+      "titulo" : "¿Dónde se encuentra Baiona?"
+    },
+    {
+      "index" : 12,
+      "respuestaCorrecta" : "Argel",
+      "respuestasIncorrectas" : [ "Argelia", "Arabia", "Colombo", "Argela" ],
+      "titulo" : "¿Cuál es la capital de Argelia?"
+    },
+    {
+      "index" : 13,
+      "respuestaCorrecta" : "Asia",
+      "respuestasIncorrectas" : [ "América", "Europa", "Oceanía", "Antártida" ],
+      "titulo" : "¿En qué continente está la India?"
+    },
+    {
+      "index" : 14,
+      "respuestaCorrecta" : "Berlín",
+      "respuestasIncorrectas" : [ "Múnich", "Frankfurt", "Dublín", "Hamburgo" ],
+      "titulo" : "¿Cúal es la capital de Alemania?"
+    },
+    {
+      "index" : 15,
+      "respuestaCorrecta" : "Quito",
+      "respuestasIncorrectas" : [ "Lima", "Bogota", "Guayaquil", "Loja" ],
+      "titulo" : "¿Cuál es la capital de Ecuador?"
+    },
+    {
+      "index" : 16,
+      "respuestaCorrecta" : "Tokio",
+      "respuestasIncorrectas" : [ "Kyoto", "Pekin", "Osaka", "Yokohama" ],
+      "titulo" : "¿Cuál es la capital de Japón?"
+    },
+    {
+      "index" : 17,
+      "respuestaCorrecta" : "Chad",
+      "respuestasIncorrectas" : [ "Marruecos", "Túnez", "Sudáfrica", "Costa de Marfil" ],
+      "titulo" : "¿Cuál de estos países africanos NO tiene costa?"
+    },
+    {
+      "index" : 18,
+      "respuestaCorrecta" : "Tarragona",
+      "respuestasIncorrectas" : [ "Barcelona", "Castellón", "Zaragoza", "Valencia" ],
+      "titulo" : "¿En qué provincia desemboca el Ebro en el Mediterráneo?"
+    },
+    {
+      "index" : 19,
+      "respuestaCorrecta" : 5,
+      "respuestasIncorrectas" : [ 6, 3, "No tiene", 4 ],
+      "titulo" : "¿Cuántas estrellas tiene la bandera de China?"
+    },
+    {
+      "index" : 20,
+      "respuestaCorrecta" : "Comoras",
+      "respuestasIncorrectas" : [ "Brunei", "China", "Indonesia", "Sri Lanka" ],
+      "titulo" : "¿Qué país NO se encuentra en Asia?"
+    } ],
+    "ciencias" : [ {
+      "index" : 0.0,
+      "respuestaCorrecta" : "respuestaCorrecta",
+      "respuestasIncorrectas" : [ "respuesta1", "respuesta2", "respuesta3", "respuesta4" ],
+      "titulo" : "Valor de la pregunta"
+    }, {
+      "index" : 1,
+      "respuestaCorrecta" : "Célula",
+      "respuestasIncorrectas" : [ "Partícula", "Tejido", "Neurona", "Órgano" ],
+      "titulo" : "¿Cómo se llama el componente mínimo que forma a los seres vivos?"
+    }, {
+      "index" : 2,
+      "respuestaCorrecta" : "El núcleo",
+      "respuestasIncorrectas" : [ "La membrána", "El Citoplasma", "Los ribosomas", "Las Vacuolas" ],
+      "titulo" : "¿Dónde se localiza la información genética en las células?"
+    }, {
+      "index" : 3,
+      "respuestaCorrecta" : "Mitosis",
+      "respuestasIncorrectas" : [ "Meiosis", "Segregación", "División", "Bipartición" ],
+      "titulo" : "¿Cómo se llama el proceso por el que una célula se divide en dos células hijas?"
+    }, {
+      "index" : 4,
+      "respuestaCorrecta" : "ADN",
+      "respuestasIncorrectas" : [ "ARN", "Proteínas", "ARN-M", "Lípidos" ],
+      "titulo" : "¿Por qué están formados los cromosomas?"
+    }, {
+      "index" : 5,
+      "respuestaCorrecta" : "Mulo",
+      "respuestasIncorrectas" : [ "Asno", "Burro", "Caballo", "Potro" ],
+      "titulo" : "Al descendiente de un asno y una yegua se le conoce como:"
+    }, {
+      "index" : 6,
+      "respuestaCorrecta" : "Gravedad",
+      "respuestasIncorrectas" : [ "Rozamiento", "Centrífuga", "Centrípeta", "Normal" ],
+      "titulo" : "¿Cómo se llama la fuerza que ejerce la Tierra sobre los cuerpos?"
+    }, {
+      "index" : 7,
+      "respuestaCorrecta" : "Darwinismo",
+      "respuestasIncorrectas" : [ "Creacionismo", "Gradualismo", "Pautacionismo", "Lamarckismo" ],
+      "titulo" : "¿Cómo se llama la teoría que considera que todos los organismos descendemos del mismo ancestro?"
+    }, {
+      "index" : 8,
+      "respuestaCorrecta" : "Gases Nobles",
+      "respuestasIncorrectas" : [ "Alcalinos", "Alcalinoterreos", "Lantánidos", "Metaloides" ],
+      "titulo" : "La columna más a la derecha en la tabla periódica pertenece a: "
+    }, {
+      "index" : 9,
+      "respuestaCorrecta" : "Electrones",
+      "respuestasIncorrectas" : [ "Protones", "Neutrones", "Isótopos", "Bosones" ],
+      "titulo" : "¿Cómo se llaman las partículas que tienen carga eléctrica negativa?"
+    }, {
+      "index" : 10,
+      "respuestaCorrecta" : "Estrella",
+      "respuestasIncorrectas" : [ "Planeta", "Satélite", "Gigante Roja", "Supernova" ],
+      "titulo" : "El Sol es:"
+    }, {
+      "index" : 11,
+      "respuestaCorrecta" : "Dinamita",
+      "respuestasIncorrectas" : [ "Penicilina", "Bomba Atómica", "Pasteurización", "Pararrayos" ],
+      "titulo" : "¿Qué inventó Alfred Nobel?"
+    }, {
+      "index" : 12,
+      "respuestaCorrecta" : "Pitágoras",
+      "respuestasIncorrectas" : [ "Arquímides", "Tales", "Laplace", "Rouché-Frobenius" ],
+      "titulo" : "¿A qué teorema pertenece esta fórmula? h*h = (c*c) + (c*c)"
+    }, {
+      "index" : 13,
+      "respuestaCorrecta" : "Llevar Oxígeno",
+      "respuestasIncorrectas" : [ "Coagular", "Combatir enfermedad", "Limpiar la sangre", "No tienen" ],
+      "titulo" : "Principal función de los glóbulos rojos"
+    }, {
+      "index" : 14,
+      "respuestaCorrecta" : "Paleontología",
+      "respuestasIncorrectas" : [ "Geología", "Biología", "Sociología", "Astrología" ],
+      "titulo" : "¿Cómo se llama la ciencia que estudia los fósiles?"
+    }, {
+      "index" : 15,
+      "respuestaCorrecta" : "Intestino",
+      "respuestasIncorrectas" : [ "Pulmones", "Riñones", "Corazón", "Arterias" ],
+      "titulo" : "¿Qué órgano pertenece al aparato digestivo?"
+    }, {
+      "index" : 16,
+      "respuestaCorrecta" : "Cerebelo",
+      "respuestasIncorrectas" : [ "Medula Espinal", "Columna", "Cráneo", "Nervios" ],
+      "titulo" : "Las partes del encéfalo son: Cerebro, Bulbo Raquídeo y ..."
+    }, {
+      "index" : 17,
+      "respuestaCorrecta" : "Hojas",
+      "respuestasIncorrectas" : [ "Tallo", "Raiz", "Ramas", "Aire" ],
+      "titulo" : "¿Dónde realizan las plantas la fotosíntesis?"
+    }, {
+      "index" : 18,
+      "respuestaCorrecta" : 5,
+      "respuestasIncorrectas" : [ 2, 6, 8, 4 ],
+      "titulo" : "Las especies de seres vivos de divien en reinos. ¿cuántos hay?"
+    }, {
+      "index" : 19,
+      "respuestaCorrecta" : "Sb",
+      "respuestasIncorrectas" : [ "Au", "Li", "K", "Sn" ],
+      "titulo" : "¿Qué símbolo tiene el Antimonio?"
+    }, {
+      "index" : 20,
+      "respuestaCorrecta" : "Magnesio",
+      "respuestasIncorrectas" : [ "Manganeso", "Molibdeno", "Meitnerio", "Mendelevio" ],
+      "titulo" : "¿A qué elemento pertenece el símbolo Mg?"
+    }, {
+      "usuario": "Cris",
+      "index" : 21,
+      "respuestaCorrecta" : "Delfín",
+      "respuestasIncorrectas" : [ "Ballena", "Lubina", "Tiburón martillo", "Lampreas" ],
+      "titulo" : "¿Cuál de estos mamíferos marinos puede realizar relaciones sexuales sólo por placer?"
+    } ],
+    "cine" : [ {
+      "index" : 0.0,
+      "respuestaCorrecta" : "respuestaCorrecta",
+      "respuestasIncorrectas" : [ "respuesta1", "respuesta2", "respuesta3", "respuesta4" ],
+      "titulo" : "Valor de la pregunta"
+    }, {
+      "index" : 1.0,
+      "respuestaCorrecta" : "Sebastian",
+      "respuestasIncorrectas" : [ "Alberto", "Ricardo", "Bertín", "Cristian" ],
+      "titulo" : "¿Cómo se llama el cangrejo de la Sirenita?"
+    }, {
+      "index" : 2.0,
+      "respuestaCorrecta" : "Caballo",
+      "respuestasIncorrectas" : [ "Perro", "Dragón", "Conejo", "Águila" ],
+      "titulo" : "¿Qué animal aparece en la bandera de Rohan?"
+    }, {
+      "index" : 3.0,
+      "respuestaCorrecta" : "Robert Downey Jr",
+      "respuestasIncorrectas" : [ "Tom Cruise", "Ewan McGregor", "Adam Sandler", "Nicolas Cage" ],
+      "titulo" : "¿Cómo se llama el actor que interpreta a Iron Man?"
+    }, {
+      "index" : 4.0,
+      "respuestaCorrecta" : "Poniente",
+      "respuestasIncorrectas" : [ "Oriente", "Turquía", "Marruecos", "Asgard" ],
+      "titulo" : "Lugar donde se desarrolla la historia de 'Juego de Tronos'"
+    }, {
+      "index" : 5.0,
+      "respuestaCorrecta" : "Klaus Badelt",
+      "respuestasIncorrectas" : [ "Hans Zimmer", "James Horner", "Howard Shore", "John Williams" ],
+      "titulo" : "¿Quién es el compositor de la banda sonora de 'Piratas del Caribe - La Maldición de la Perla Negra'?"
+    }, {
+      "index" : 6.0,
+      "respuestaCorrecta" : "Geoffrey Rush",
+      "respuestasIncorrectas" : [ "Orlando Bloom", "Johnny Depp", "Javier Bardem", "Kevin MacNally" ],
+      "titulo" : "¿Quién encarnó al 'Capitán Barbosa'?"
+    }, {
+      "index" : 7.0,
+      "respuestaCorrecta" : "Forest Gump",
+      "respuestasIncorrectas" : [ "Legolas", "Jack Sparrow", "Thor", "Newt" ],
+      "titulo" : "¿Quién dijo esta frase? 'Mi mamá dice que la vida es como una caja de bombones'"
+    }, {
+      "index" : 8.0,
+      "respuestaCorrecta" : "Caballo",
+      "respuestasIncorrectas" : [ "Toro", "Pájaro", "Perro", "Burro" ],
+      "titulo" : "¿La cabeza de qué animal se encuentran en la cama en la película 'El Padrino'?"
+    }, {
+      "index" : 9.0,
+      "respuestaCorrecta" : 20.0,
+      "respuestasIncorrectas" : [ 10.0, 18.0, 23.0, 13.0 ],
+      "titulo" : "¿Cuántas películas conforman la saga '007'?"
+    }, {
+      "index" : 10.0,
+      "respuestaCorrecta" : "Patito",
+      "respuestasIncorrectas" : [ "Cerdito", "Bichito", "Morritos", "Amorcito" ],
+      "titulo" : "¿Cómo suele llamar Katniss a su hermana en 'Los Juegos del Hambre'?"
+    }, {
+      "index" : 11.0,
+      "respuestaCorrecta" : "Espada Láser",
+      "respuestasIncorrectas" : [ "Martillo de Thor", "Varita", "Traje de Iron Man", "Anillo único" ],
+      "titulo" : "¿Qué saca Leonard en el capítulo 2 de la primera temporada de 'Big Bang'?"
+    }, {
+      "index" : 12.0,
+      "respuestaCorrecta" : "Libro de Pociones",
+      "respuestasIncorrectas" : [ "Barita de Sauco", "Capa de Invisibilidad", "Piedra de Resurrección", "Diadema de Ravenclaw" ],
+      "titulo" : "¿Qué esconden Harry y Ginny en la sala de los Menesteres?"
+    }, {
+      "index" : 13.0,
+      "respuestaCorrecta" : "Nagini",
+      "respuestasIncorrectas" : [ "Diario", "Guardapelo", "Diadema", "Copa" ],
+      "titulo" : "¿Cuál es el último Horrocrux que se destruye en las películas de Harry Potter?"
+    }, {
+      "index" : 14.0,
+      "respuestaCorrecta" : "Scrappy-Doo",
+      "respuestasIncorrectas" : [ "Vilma", "Daphne", "Fred", "Shaggy" ],
+      "titulo" : "¿Quién atrae a Scooby-Doo y a sus amigos a 'Isla Espectra'?"
+    }, {
+      "index" : 15.0,
+      "respuestaCorrecta" : "Na'vi",
+      "respuestasIncorrectas" : [ "Avatar", "Eywa", "Tsahaylu", "Aleluya" ],
+      "titulo" : "¿Cómo se llama el pueblo que vive en Pandora?"
+    }, {
+      "index" : 16.0,
+      "respuestaCorrecta" : "Victoriana",
+      "respuestasIncorrectas" : [ "Barroca", "Renacentista", "Rococó", "Neoclásica" ],
+      "titulo" : "¿En qué época contruye Alexander Hartdegen la máquina del tiempo?"
+    }, {
+      "index" : 17.0,
+      "respuestaCorrecta" : "Sigourney Weaver",
+      "respuestasIncorrectas" : [ "Helen Horton", "Veronica Cartwright", "Nicole Kidman", "Kate Winslet" ],
+      "titulo" : "¿Cómo se llama la actriz que interpreta a 'Ripley' en Alien?"
+    }, {
+      "index" : 18.0,
+      "respuestaCorrecta" : "Jonsey",
+      "respuestasIncorrectas" : [ "Pluto", "Scabbers", "Frank", "Crookshanks" ],
+      "titulo" : "¿Cómo se llama el gato de Ripley?"
+    }, {
+      "index" : 19.0,
+      "respuestaCorrecta" : "Reloj",
+      "respuestasIncorrectas" : [ "Libro", "Pelota", "Gato", "Pulsera" ],
+      "titulo" : "¿Qué regalo le hace Ripley a Newt en 'Alien 2'?"
+    }, {
+      "index" : 20.0,
+      "respuestaCorrecta" : "Abbey",
+      "respuestasIncorrectas" : [ "Pluto", "Pongo", "Golfo", "Tobby" ],
+      "titulo" : "¿Cómo se llama el perro de Will Smith en 'Soy Leyenda'?"
+    }, {
+      "index" : 21.0,
+      "respuestaCorrecta" : "Cesar",
+      "respuestasIncorrectas" : [ "Augusto", "Julio", "Marco", "Antonio" ],
+      "titulo" : "¿Cómo se llama el simio que adopta James Franco en 'El Planeta de los Simios'?"
+    }, {
+      "index" : 22.0,
+      "respuestaCorrecta" : "No",
+      "respuestasIncorrectas" : [ "Si", "Cesar", "Will", "Familia" ],
+      "titulo" : "¿Qué es lo primero que dice Cesar en 'El Planeta de los Simios'?"
+    }, {
+      "index" : 23.0,
+      "respuestaCorrecta" : "Nefilim",
+      "respuestasIncorrectas" : [ "Maga", "Vampira", "Mujerlobo", "Humana" ],
+      "titulo" : "¿Qué es Clary en 'Cazadores de Sombras'?"
+    }, {
+      "index" : 24.0,
+      "respuestaCorrecta" : "Moneda",
+      "respuestasIncorrectas" : [ "Colgante", "Espada", "Mapa", "Pañuelo" ],
+      "titulo" : "¿Qué le quita Elisabeth a Will en 'Piratas del Caribe 1'?"
+    }, {
+      "index" : 25.0,
+      "respuestaCorrecta" : "Naranja",
+      "respuestasIncorrectas" : [ "Verde", "Azul", "Amarillo", "Violeta" ],
+      "titulo" : "¿Cuál es el color favorito de Peeta en 'Los Juegos del Hambre'?"
+    }, {
+      "index" : 26.0,
+      "respuestaCorrecta" : "Sr. Wilson",
+      "respuestasIncorrectas" : [ "Sr. Livingstone", "Sr. McCourt", "Sr. O'Conner", "Sr. DiLaurentis" ],
+      "titulo" : "En la película 'Naufrago', ¿cómo se llama el balón?"
+    }, {
+      "index" : 27.0,
+      "respuestaCorrecta" : "Libro de los Muertos",
+      "respuestasIncorrectas" : [ "Libro de Hechizos", "Libro de Pociones", "Libro de Conjuros", "Libro de las Almas" ],
+      "titulo" : "¿Qué libro usan en 'La Momia 2' para revivir a la momia?"
+    }, {
+      "index" : 28.0,
+      "respuestaCorrecta" : "Wakanda",
+      "respuestasIncorrectas" : [ "Narnia", "El Dorado", "Fantasía", "Pandora" ],
+      "titulo" : "¿De qué país procede el 'Vibranium'?"
+    }, {
+      "index" : 29.0,
+      "respuestaCorrecta" : "Adamantium",
+      "respuestasIncorrectas" : [ "Vibranium", "Plata", "Cobre", "Hierro" ],
+      "titulo" : "¿De qué material está recubierto el esqueleto de 'Lobezno'?"
+    }, {
+      "index" : 30.0,
+      "respuestaCorrecta" : "Toc-toc-toc Penny",
+      "respuestasIncorrectas" : [ "Estás en mi sitio", "Zas, en toda la boca", "Ea Ea", "No puedo olvidarlo" ],
+      "titulo" : "¿Cuál es la frase más conocida de 'Sheldon Cooper'?"
+    }, {
+      "index" : 31.0,
+      "respuestaCorrecta" : "La Red Social",
+      "respuestasIncorrectas" : [ "Eliminado", "Open Windows", "Nerve", "Avatar" ],
+      "titulo" : "¿Cómo se llama la película que está basada en 'Facebook'?"
+    }, {
+      "index" : 32.0,
+      "respuestaCorrecta" : "Besar a un desconocido",
+      "respuestasIncorrectas" : [ "Bailar en público", "Robar un vestido", "Matar a alguien", "Subir a lo más alto" ],
+      "titulo" : "¿Cuál es el primer reto de la protagonista de 'Nerve'?"
+    }, {
+      "index" : 33.0,
+      "respuestaCorrecta" : "Dunédain",
+      "respuestasIncorrectas" : [ "Enano", "Humano", "Hobbit", "Elfo" ],
+      "titulo" : "¿Qué raza es Aragorn?"
+    }, {
+      "index" : 34.0,
+      "respuestaCorrecta" : "Zazú",
+      "respuestasIncorrectas" : [ "Nala", "Sarabi", "Rafiki", "Kobu" ],
+      "titulo" : "¿Cómo se llama el pájaro de 'El Rey León'?"
+    }, {
+      "index" : 35.0,
+      "respuestaCorrecta" : "Motoko",
+      "respuestasIncorrectas" : [ "Akiko", "Sakura", "Asuna", "Sinon" ],
+      "titulo" : "¿Cuál es el verdadero nombre de la protagonista de 'Ghost in the Shell'?"
+    }, {
+      "index" : 36.0,
+      "respuestaCorrecta" : "Halcón Milenario",
+      "respuestasIncorrectas" : [ "Enterprise", "TIE Interceptor", "TIE Phantom", "X-Wing" ],
+      "titulo" : "¿Cómo se llama la nave de Han Solo?"
+    }, {
+      "index" : 37.0,
+      "respuestaCorrecta" : "Crucio",
+      "respuestasIncorrectas" : [ "Imperio", "Avada Kedavra", "Acio", "Homenum Revelio" ],
+      "titulo" : "¿Cuál es nombre de la maldición tortura en 'Harry Potter'?"
+    }, {
+      "index" : 38.0,
+      "respuestaCorrecta" : "Remy",
+      "respuestasIncorrectas" : [ "Denis", "Gabi", "Henry", "Karim" ],
+      "titulo" : "¿Cómo se llama la rata protagonista de 'Ratatouille'?"
+    }, {
+      "index" : 39.0,
+      "respuestaCorrecta" : 7.0,
+      "respuestasIncorrectas" : [ 10.0, 3.0, 5.0, 8.0 ],
+      "titulo" : "¿Cuántos horrocruxes crea Voldemort?"
+    }, {
+      "index" : 40.0,
+      "respuestaCorrecta" : "Ella",
+      "respuestasIncorrectas" : [ "Ela", "Eya", "Bella", "Tecla" ],
+      "titulo" : "¿Cómo se llama la araña de intenta comerse a Frodo en 'El Retorno del Rey'?"
+    }, {
+      "index" : 41.0,
+      "respuestaCorrecta" : "Autobots",
+      "respuestasIncorrectas" : [ "Decepticons", "Prime", "Kantam", "Zord" ],
+      "titulo" : "En la saga Transformers, ¿cómo se llaman los robots buenos?"
+    }, {
+      "index" : 42.0,
+      "respuestaCorrecta" : "Azrael",
+      "respuestasIncorrectas" : [ "Israel", "Ismael", "Rafael", "Asreal" ],
+      "titulo" : "¿Cómo se llama el gato de Gargamel?"
+    }, {
+      "index" : 43.0,
+      "respuestaCorrecta" : "Bumblebee",
+      "respuestasIncorrectas" : [ "Optimus", "Kantam", "Megatrón", "Ironhide" ],
+      "titulo" : "¿Cuál es el nombre de transformer que acompaña al protagonista?"
+    }, {
+      "index" : 44.0,
+      "respuestaCorrecta" : "NASA",
+      "respuestasIncorrectas" : [ "FBI", "GSA", "NSF", "ATF" ],
+      "titulo" : "¿Dónde trabajan las protagonistas de la película 'Figuras Ocultas'?"
+    }, {
+      "index" : 45.0,
+      "respuestaCorrecta" : "Rowan Atkinson",
+      "respuestasIncorrectas" : [ "Woody Allen", "Ben Kingsley", "Nicolas Cage", "Hulk Hogan" ],
+      "titulo" : "¿Quién interpretó a Mr. Bean?"
+    }, {
+      "index" : 46.0,
+      "respuestaCorrecta" : "Dino",
+      "respuestasIncorrectas" : [ "Snoots", "Wooly", "Brincos", "Baby Puss" ],
+      "titulo" : "¿Cómo se llama el dinosaurio de 'Los Picapiedras'?"
+    }, {
+      "index" : 47.0,
+      "respuestaCorrecta" : "Cocoliso",
+      "respuestasIncorrectas" : [ "Brutus", "Pupeye", "Cole", "Ham" ],
+      "titulo" : "¿Cómo se llama el hijo de Popeye?"
+    }, {
+      "index" : 48.0,
+      "respuestaCorrecta" : "Chavo del 8",
+      "respuestasIncorrectas" : [ "Quico", "Don Ramón", "Chilindrina", "Profesor Jirafales" ],
+      "titulo" : "¿A quién le pertenece la frase: 'Se me chisporroteó'?"
+    }, {
+      "index" : 49.0,
+      "respuestaCorrecta" : "Central Perk",
+      "respuestasIncorrectas" : [ "Central Park", "Cheesecake", "MacLaren's", "Max and Henry" ],
+      "titulo" : "¿Cómo se llama el bar en el que trabaja Joey de 'Friends'?"
+    }, {
+      "index" : 50.0,
+      "respuestaCorrecta" : "C-3PO",
+      "respuestasIncorrectas" : [ "R2-D2", "BB-8", "Droideka", "HK-47" ],
+      "titulo" : "¿Qué androide creó Anakin Skywalker?"
+    }, {
+      "usuario": "Pedro",
+      "index" : 51,
+      "respuestaCorrecta" : "El Renacido",
+      "respuestasIncorrectas" : [ "Titanic", "El Lobo de Wall Street", "Atrápame si puedes", "Shutter Island" ],
+      "titulo" : "Película con la que Leonardo DiCaprio ganó un Oscar"
+    }, {
+      "usuario": "Lorena",
+      "index" : 52,
+      "respuestaCorrecta" : "Gandhi",
+      "respuestasIncorrectas" : [ "Ben-Hur", "10 mandamientos", "Avatar", "Gladiator" ],
+      "titulo" : "¿En qué película se usaron más extras?"
+    } ],
+    "historia" : [ {
+      "index" : 0.0,
+      "respuestaCorrecta" : "respuestaCorrecta",
+      "respuestasIncorrectas" : [ "respuesta1", "respuesta2", "respuesta3", "respuesta4" ],
+      "titulo" : "Valor de la pregunta"
+    }, {
+      "index" : 1,
+      "respuestaCorrecta" : 1492,
+      "respuestasIncorrectas" : [ 1500, 1298, 1942, 1490 ],
+      "titulo" : "¿En qué año se descubrió América?"
+    }, {
+      "index" : 2,
+      "respuestaCorrecta" : "100 años",
+      "respuestasIncorrectas" : [ "Cruzadas", "Napoleónicas", "30 años", "I GM" ],
+      "titulo" : "Guerra en la que participó Juana de Arco"
+    }, {
+      "index" : 3,
+      "respuestaCorrecta" : "Siglo XVI",
+      "respuestasIncorrectas" : [ "Siglo XV", "Siglo XIV", "Siglo XVII", "Siglo XIII" ],
+      "titulo" : "¿Cuando se produjo, principalmente, el Siglo de Oro?"
+    }, {
+      "index" : 4,
+      "respuestaCorrecta" : 1812,
+      "respuestasIncorrectas" : [ 1792, 1900, 1820, 1557 ],
+      "titulo" : "¿De qué año es 'La Pepa'?"
+    }, {
+      "index" : 5,
+      "respuestaCorrecta" : "Cesar Augusto",
+      "respuestasIncorrectas" : [ "Calígula", "Julio Cesar", "Nerón", "Marco Antonio" ],
+      "titulo" : "¿Quién fuel el primer emperador romano?"
+    }, {
+      "index" : 6,
+      "respuestaCorrecta" : "Felipe IV",
+      "respuestasIncorrectas" : [ "Felipe II", "Felipe V", "Felipe III", "Carlo IV" ],
+      "titulo" : "¿Qué Rey encargó 'Las Meninas'?"
+    }, {
+      "index" : 7,
+      "respuestaCorrecta" : "Austria",
+      "respuestasIncorrectas" : [ "Polonia", "Alemania", "Suiza", "Hungría" ],
+      "titulo" : "¿En qué país nació Adolf Hitler?"
+    }, {
+      "index" : 8,
+      "respuestaCorrecta" : "Galaecia",
+      "respuestasIncorrectas" : [ "Bética", "Tarraco", "Meseta Central", "Penibética" ],
+      "titulo" : "¿Qué lugar de la península ocuparon los visigodos en su invasión a España?"
+    }, {
+      "index" : 9,
+      "respuestaCorrecta" : "Italia",
+      "respuestasIncorrectas" : [ "España", "Francia", "Portugal", "Suiza" ],
+      "titulo" : "¿Qué país fue sede del Imperio Romano?"
+    }, {
+      "index" : 10,
+      "respuestaCorrecta" : "Siglo XIV",
+      "respuestasIncorrectas" : [ "Siglo XII", "Siglo XVI", "Siglo XV", "Siglo XIII" ],
+      "titulo" : "¿En qué siglo arrasó Europa la peste bubónica?"
+    }, {
+      "index" : 11,
+      "respuestaCorrecta" : "Romano",
+      "respuestasIncorrectas" : [ "Mongol", "Griego", "Otomano", "Sueco" ],
+      "titulo" : "Imperio que conquistó el Antiguo Egipto"
+    }, {
+      "index" : 12,
+      "respuestaCorrecta" : 1873,
+      "respuestasIncorrectas" : [ 1878, 1875, 1812, 1885 ],
+      "titulo" : "La I República española se proclama en ..."
+    }, {
+      "index" : 13,
+      "respuestaCorrecta" : "Valencia",
+      "respuestasIncorrectas" : [ "Madrid", "Barcelona", "Toledo", "Murcia" ],
+      "titulo" : "¿En qué ciudad murió el Cid luchando contra los musulmanes?"
+    }, {
+      "index" : 14,
+      "respuestaCorrecta" : "Inglaterra",
+      "respuestasIncorrectas" : [ "Francia", "Portugal", "Marruecos", "Italia" ],
+      "titulo" : "La Armada Invencible fue derrotada en 1588 al intentar invadir ..."
+    }, {
+      "index" : 15,
+      "respuestaCorrecta" : "Bailén",
+      "respuestasIncorrectas" : [ "Valencia", "Sevilla", "Cádiz", "Cáceres" ],
+      "titulo" : "En 1808 se produce la primera derrota del ejército napoleónico en España en ..."
+    }, {
+      "index" : 16,
+      "respuestaCorrecta" : "El Sabio",
+      "respuestasIncorrectas" : [ "El Loco", "El Rebelde", "El Hermoso", "El Católico" ],
+      "titulo" : "¿Cómo era conocido Alfonso X de Castilla?"
+    }, {
+      "index" : 17,
+      "respuestaCorrecta" : "Portugal",
+      "respuestasIncorrectas" : [ "Marruecos", "Grecia", "Francia", "Italia" ],
+      "titulo" : "¿A qué país pertenecía Ceuta antes de ser conquistada por España?"
+    }, {
+      "index" : 18,
+      "respuestaCorrecta" : "Alfonso XIII",
+      "respuestasIncorrectas" : [ "Alfonso XII", "Alfonso IX", "Alfonso X", "Alfonso VIII" ],
+      "titulo" : "La Dictadura de Primo de Rivera se produce con el rey ..."
+    }, {
+      "index" : 19,
+      "respuestaCorrecta" : "1939-1945",
+      "respuestasIncorrectas" : [ "1936-1939", "1914-1918", "1940-1946", "1936-1946" ],
+      "titulo" : "¿Qué periodo comprende la Segunda Guerra Mundial?"
+    }, {
+      "index" : 20,
+      "respuestaCorrecta" : 1969,
+      "respuestasIncorrectas" : [ 1960, 1972, 1991, 1982 ],
+      "titulo" : "¿En qué año pisó por primera vez la Luna el hombre?"
+    } ],
+    "lengua" :[
+      {
+      "index" : 0,
+      "respuestaCorrecta" : "respuestaCorrecta",
+      "respuestasIncorrectas" : [ "Error1", "Error2", "Error3", "Error4" ],
+      "titulo" : "título pregunta"
+    }, {
+      "index" : 1,
+      "respuestaCorrecta" : "Benvolio",
+      "respuestasIncorrectas" : [ "Tebaldo", "Julieta", "Mercucio", "Paris" ],
+      "titulo" : "¿Quién es el primo de Romeo en 'Romeo y Julieta'?"
+    }, {
+      "index" : 2,
+      "respuestaCorrecta" : "De nadie",
+      "respuestasIncorrectas" : [ "Edward Ferras", "Coronel Brandon", "Robert Ferras", "John Willoughb" ],
+      "titulo" : "¿De quién se enamora Margareth Dashwood en 'Sentido y sensibilidad'?"
+    }, {
+      "index" : 3,
+      "respuestaCorrecta" : 12,
+      "respuestasIncorrectas" : [ 2, 5, "Ninguna", 9 ],
+      "titulo" : "¿Cuántas editoriales rechazaron la obra 'Harry Potter y la piedra filosofal'?"
+    }, {
+      "index" : 4,
+      "respuestaCorrecta" : "Sevilla",
+      "respuestasIncorrectas" : [ "Berlín", "Londres", "París", "Roma" ],
+      "titulo" : "¿Dónde transcurre la última novela de Ken Follet?"
+    }, {
+      "index" : 5,
+      "respuestaCorrecta" : "Simbología",
+      "respuestasIncorrectas" : [ "Humanidades", "Filosofía", "Arte", "Historia" ],
+      "titulo" : "¿En qué está especializado Robert Langdon en 'Ángeles y demonios'?"
+    }, {
+      "index" : 6,
+      "respuestaCorrecta" : 12,
+      "respuestasIncorrectas" : [ 3, 6, 10, 15 ],
+      "titulo" : "¿A cuántos idiomas se ha traducido la novela 'El ocho'?"
+    }, {
+      "index" : 7,
+      "respuestaCorrecta" : "Médica",
+      "respuestasIncorrectas" : [ "Profesora", "Minera", "Comerciante", "No trabajaba" ],
+      "titulo" : "¿Qué era la madre de Katniss antes de que muriera su marido?"
+    }, {
+      "index" : 8,
+      "respuestaCorrecta" : 13,
+      "respuestasIncorrectas" : [ 5, 12, 9, 10 ],
+      "titulo" : "¿Cuántos libros publicó Oscar Wilde?"
+    }, {
+      "index" : 9,
+      "respuestaCorrecta" : "Carlos Ruiz Zafón",
+      "respuestasIncorrectas" : [ "Laura Gallego", "Paulo Cohelo", "Ana Todd", "Pérez-Reverte" ],
+      "titulo" : "¿Quién escribió la 'Trilogía de la Niebla'?"
+    }, {
+      "index" : 10,
+      "respuestaCorrecta" : "Nueva York",
+      "respuestasIncorrectas" : [ "Nueva Dehli", "Marruecos", "Andorra", "Alemania" ],
+      "titulo" : "¿A dónde viajó Federico García Lorca en el año 1929?"
+    }, {
+      "index" : 11,
+      "respuestaCorrecta" : "Maleable",
+      "respuestasIncorrectas" : [ "Duro", "Frágil", "Condescendiente", "Tonto" ],
+      "titulo" : "¿Cuál es el sinónimo de 'dúctil'?"
+    }, {
+      "index" : 12,
+      "respuestaCorrecta" : "Desasir",
+      "respuestasIncorrectas" : [ "Asimiento", "Percepción", "Agarro", "Desazón" ],
+      "titulo" : "¿Cuál es el antónimo de 'aprehensión'?"
+    }, {
+      "index" : 13,
+      "respuestaCorrecta" : 14,
+      "respuestasIncorrectas" : [ 13, 15, 10, 4 ],
+      "titulo" : "¿Cuántos versos tiene un soneto?"
+    }, {
+      "index" : 14,
+      "respuestaCorrecta" : "Perífrasis",
+      "respuestasIncorrectas" : [ "Subordinada", "Conector", "Preposición", "Poema" ],
+      "titulo" : "¿Qué es 'tener que + infinitivo'?"
+    }, {
+      "index" : 15,
+      "respuestaCorrecta" : "Figura literaria",
+      "respuestasIncorrectas" : [ "Ratón", "Poema", "Rima", "Preposición" ],
+      "titulo" : "¿Qué es un 'hipérbaton'?"
+    }, {
+      "index" : 16,
+      "respuestaCorrecta" : "Código",
+      "respuestasIncorrectas" : [ "Canal", "Mensaje", "Músculo", "Asignatura" ],
+      "titulo" : "¿Qué es la 'lengua'?"
+    }, {
+      "index" : 17,
+      "respuestaCorrecta" : "Tercera",
+      "respuestasIncorrectas" : [ "Primera", "Segunda", "Cualquiera", "Ninguna" ],
+      "titulo" : "¿Qué persona gramatical utiliza el narrador omnisciente?"
+    }, {
+      "index" : 18,
+      "respuestaCorrecta" : "Folclóricos",
+      "respuestasIncorrectas" : [ "Terror", "Fantasía", "Anónimos", "Inventados" ],
+      "titulo" : "¿Qué cuentos se transmiten de forma oral y no tienen autor?"
+    }, {
+      "index" : 19,
+      "respuestaCorrecta" : "Concordancia",
+      "respuestasIncorrectas" : [ "Sintagma", "Redundancia", "Adyacencia", "Oración" ],
+      "titulo" : "¿Cómo se llama la relación entre el núcleo del sujeto y el núcleo del predicado?"
+    }, {
+      "index" : 20,
+      "respuestaCorrecta" : "Adjetivo",
+      "respuestasIncorrectas" : [ "Adverbio", "Sustantivo", "Verbo", "Perífrasis" ],
+      "titulo" : "¿Qué tipo de palabra es 'lejos'?"
+    }],
+    "deportes" :[
+      {
+      "index" : 0,
+      "respuestaCorrecta" : "respuestaCorrecta",
+      "respuestasIncorrectas" : [ "Error1", "Error2", "Error3", "Error4" ],
+      "titulo" : "título pregunta"
+    }, {
+      "index" : 1,
+      "respuestaCorrecta" : "Crol",
+      "respuestasIncorrectas" : [ "Espalda", "Mariposa", "Pecho", "Brazada" ],
+      "titulo" : "¿Cuál es el estilo de natación más rápido?"
+    }, {
+      "index" : 2,
+      "respuestaCorrecta" : 15,
+      "respuestasIncorrectas" : [ 12, 21, 17, 11 ],
+      "titulo" : "¿Cuántos jugadores componen un equipo de rugby?"
+    }, {
+      "index" : 3,
+      "respuestaCorrecta" : "Skateboard",
+      "respuestasIncorrectas" : [ "Snowboard", "Alpinismo", "Surf", "Atletismo" ],
+      "titulo" : "¿De qué deporte es el longboard una de las modalidades?"
+    }, {
+      "index" : 4,
+      "respuestaCorrecta" : "Uno",
+      "respuestasIncorrectas" : [ "Dos", "Tres", "Depende", "No existe" ],
+      "titulo" : "¿Cuántos puntos vale un tiro libre ensectado en baloncesto?"
+    }, {
+      "index" : 5,
+      "respuestaCorrecta" : "90 minutos",
+      "respuestasIncorrectas" : [ "45 minutos", "75 minutos", "80 minutos", "60 minutos" ],
+      "titulo" : "¿Cuánto dura un partido de fútbol?"
+    }, {
+      "index" : 6,
+      "respuestaCorrecta" : "Betis vs Sevilla",
+      "respuestasIncorrectas" : [ "Betis vs Málaga", "Málaga vs Sevilla", "Cádiz vs Córdoba", "Almeria vs Recreativo" ],
+      "titulo" : "¿Cuál es el derbi más esperado en Andalucía?"
+    }, {
+      "index" : 7,
+      "respuestaCorrecta" : "Green",
+      "respuestasIncorrectas" : [ "Esplanada", "Terreno", "Campo", "Putter" ],
+      "titulo" : "¿Cómo se llama la zona de hierba rasa donde está ubivado el hoyo en golf?"
+    }, {
+      "index" : 8,
+      "respuestaCorrecta" : "Brasil",
+      "respuestasIncorrectas" : [ "Italia", "España", "Alemania", "Francia" ],
+      "titulo" : "¿Quién ganó el mundial de fútbol del año 2002?"
+    }, {
+      "index" : 9,
+      "respuestaCorrecta" : 1,
+      "respuestasIncorrectas" : [ 0, 2, 3, 5 ],
+      "titulo" : "¿En cuántos mundiales de fútbol participó la selección de Canadá?"
+    },  {
+      "index" : 10,
+      "respuestaCorrecta" : "Inglaterra",
+      "respuestasIncorrectas" : [ "China", "Japón", "Francia", "Rusia" ],
+      "titulo" : "¿Dónde se inventó el tenis de mesa?"
+    }, {
+      "index" : 11,
+      "respuestaCorrecta" : "Rafael Nadal",
+      "respuestasIncorrectas" : [ "Roger Federer", "Novak Djokovic", "Carlos Moyá", "Juan Martín del Potro" ],
+      "titulo" : "¿Quién ostenta, actualmente, el Numero 1 del mundo de Tenis?"
+    }, {
+      "index" : 12,
+      "respuestaCorrecta" : "Recreativo",
+      "respuestasIncorrectas" : [ "Barcelona", "Madrid", "Athl. Bilbao", "Valencia" ],
+      "titulo" : "¿Cuál es el club de fútbol más antiguo de España?"
+    }, {
+      "index" : 13,
+      "respuestaCorrecta" : "Trio",
+      "respuestasIncorrectas" : [ "Full", "Pareja", "Poker", "Doble Pareja" ],
+      "titulo" : "Si durante una mano de Póker me tocan 3 cartas del mismo valor, ¿qué jugada tengo?"
+    }, {
+      "index" : 14,
+      "respuestaCorrecta" : 64,
+      "respuestasIncorrectas" : [ 36, 52, 80, 74 ],
+      "titulo" : "¿Cuántos cuadros tiene un tablero de ajedres?"
+    }, {
+      "index" : 15,
+      "respuestaCorrecta" : "Estados Unidos",
+      "respuestasIncorrectas" : [ "España", "Japón", "Italia", "Eslovaquia" ],
+      "titulo" : "¿Qué país fue el ganador de baloncesto en los Juegos Olímpicos de Londres 2012?"
+    }, {
+      "index" : 16,
+      "respuestaCorrecta" : 7,
+      "respuestasIncorrectas" : [ 10, 11, 9, 12 ],
+      "titulo" : "¿Qué número llevó Raúl en el Real Madrid?"
+    }, {
+      "index" : 17,
+      "respuestaCorrecta" : "Reino Unido",
+      "respuestasIncorrectas" : [ "Australia", "Canadá", "Alemania", "Chile" ],
+      "titulo" : "¿Dónde nació el Rugby?"
+    }, {
+      "index" : 18,
+      "respuestaCorrecta" : 21,
+      "respuestasIncorrectas" : [ 19, 24, 20, 22 ],
+      "titulo" : "¿A qué edad ganó su primer mundial de Fórmula 1 Fernando Alonso?"
+    }, {
+      "index" : 19,
+      "respuestaCorrecta" : "Tenis",
+      "respuestasIncorrectas" : [ "Futbol", "Baloncesto", "Balonmano", "Natación" ],
+      "titulo" : "¿En qué deporte se puede ganar la 'Copa Davis'?"
+    }, {
+      "index" : 20,
+      "respuestaCorrecta" : 10,
+      "respuestasIncorrectas" : [ 15, 17, 20, 25 ],
+      "titulo" : "¿Cuántos minutos dura cada cuarto de baloncesto?"
+    }]
+
+  },
+  "usuarios" : {
+    "Carmen" : {
+      "index" : 138,
+      "nombre" : "Carmen",
+      "puntos" : 120
+    },
+    "Fran" : {
+      "index" : 908,
+      "nombre" : "Fran",
+      "puntos" : 160
+    },
+    "Juan" : {
+      "index" : 507,
+      "nombre" : "Juan",
+      "puntos" : 90
+    },
+    "Lorena" : {
+      "index" : 415,
+      "nombre" : "Lorena",
+      "puntos" : 70
+    },
+    "Luis" : {
+      "index" : 590,
+      "nombre" : "Luis",
+      "puntos" : 150
+    },
+    "Mesu" : {
+      "index" : 580,
+      "nombre" : "Mesu",
+      "puntos" : 190
+    },
+    "Paola" : {
+      "index" : 130,
+      "nombre" : "Paola",
+      "puntos" : 10
+    },
+    "Pepa" : {
+      "index" : 177,
+      "nombre" : "Pepa",
+      "puntos" : 0
+    },
+    "Pepe" : {
+      "index" : 670,
+      "nombre" : "Pepe",
+      "puntos" : 80
+    },
+    "Sandra" : {
+      "index" : 888,
+      "nombre" : "Sandra",
+      "puntos" : 70
+    },
+    "Tere" : {
+      "index" : 24,
+      "nombre" : "Tere",
+      "puntos" : 110
+    },
+    "Toñi" : {
+      "index" : 2,
+      "nombre" : "Toñi",
+      "puntos" : 100
+    },
+    "mlgrabla" : {
+      "index" : 616,
+      "nombre" : "mlgrabla",
+      "puntos" : 500
+    }
+  }
+}

@@ -1,0 +1,23 @@
+body{
+	background: url('../images/fondo2.jpg');
+}
+
+.usuarios-ranking{
+	align-items: center;
+	height: 100vh;
+	top: 80px;
+	left: 25px;
+}
+
+.ranking{
+	color: white;
+	height: 350px;
+	width: 300px;
+	font-size: 18px;
+	overflow: auto;
+	overflow-x: hidden;
+}
+
+.jugador{
+	color: #F7FE2E;
+}

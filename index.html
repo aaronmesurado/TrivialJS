@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="UTF-8">
+	<title>Trivial</title>
+	<!-- Hace que la ventana sea escalable -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<!-- Link para Iconos -->
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<!-- Link a Fuente de Google -->
+	<link href="https://fonts.googleapis.com/css?family=Baloo+Tammudu" rel="stylesheet"> 
+	<!-- Links CSS  -->
+	<link href="./css/bootstrap.min.css" rel="stylesheet" type="text/css">
+	<link href="./css/index.css" rel="stylesheet" type="text/css">
+	<link href="./css/global.css" rel="stylesheet" type="text/css">
+	<!-- Imagen Ventana -->
+	<link rel="icon" type="image/png" href="./images/logo.png">
+</head>
+<body>
+
+	<div class="container index">
+
+		<div class="row justify-content-center">
+			<div class="container-fluid justify-content-center">
+				<input type="text" class="jugador" placeholder="Introduce tu nombre"><br>
+			</div>
+		</div>
+		
+		<div class="row justify-content-center botones">
+			<button type="button" class="cine btn btn-success" value="cine">
+				<i class="fa fa-film" aria-hidden="true">
+					<span class="categoria"> Cine</span>
+				</i>
+			</button>
+			<button type="button" class="ciencias btn btn-success" value="ciencias">
+				<i class="fa fa-flask" aria-hidden="true">
+					<span class="categoria"> Ciencias</span>
+				</i>
+			</button>
+			<button type="button" class="historia btn btn-success" value="historia">
+				<i class="fa fa-shield" aria-hidden="true">
+					<span class="categoria"> Historia</span>
+				</i>
+			</button>
+		</div>
+
+		<div class="row justify-content-center botones">
+			<button type="button" class="deportes btn btn-success" value="deportes">
+				<i class="fa fa-futbol-o" aria-hidden="true">
+					<span class="categoria"> Deportes</span>
+				</i>
+			</button>
+			<button type="button" class="lengua btn btn-success" value="lengua">
+				<i class="fa fa-book" aria-hidden="true">
+					<span class="categoria"> Lengua</span>
+				</i>
+			</button>
+			<button type="button" class="geografia btn btn-success" value="geografia">
+				<i class="fa fa-globe" aria-hidden="true">
+					<span class="categoria"> Geografía</span>
+				</i>
+			</button>
+		</div>
+
+		<div class="row justify-content-center botones">
+			<button type="button" class="random btn btn-success" value="random">
+				<i class="fa fa-random" aria-hidden="true">
+					<span class="categoria"> Aleatorias</span>
+				</i>
+			</button>
+		</div>
+		
+	</div>
+
+
+	<footer class="nav-footer menu">
+		<nav class="nav nav-pills flex-column flex-sm-row justify-content-center">
+		  <a class="flex-sm-fill text-sm-center nav-link link-menu" href="./index.html">Inicio</a>
+		  <a class="flex-sm-fill text-sm-center nav-link link-menu" href="./tuPregunta.html">Deja tu Pregunta</a>
+		  <a class="flex-sm-fill text-sm-center nav-link link-menu" href="./ranking.html">Ranking</a>
+		</nav>
+	</footer>
+
+	<script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+	<script src="https://www.gstatic.com/firebasejs/4.3.1/firebase.js"></script>
+	<script src="./js/index.js" type="text/javascript" charset="utf-8"></script>
+</body>
+</html>
